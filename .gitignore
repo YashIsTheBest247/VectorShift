@@ -1,0 +1,7 @@
+vectorshift-frontend/node_modules/
+vectorshift-frontend/build/
+vectorshift-backend/__pycache__/
+vectorshift-backend/*.pyc
+.env
+.DS_Store
+Thumbs.db
